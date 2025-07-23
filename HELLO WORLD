@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World</title>
+    <style>
+        body {
+            font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p> THIS IS ONCE AGAIN ME STARTING SOMETHING IN THE PARAGRAPH SECTION<rb>
+        I have also uhhhh done another line here as you can see
+    </rb>
+    </p>
+</body>
+</html>
+
+the previous is a basic hello world in comic sans font with a small paragraph section
